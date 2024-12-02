@@ -5,9 +5,11 @@ Problem Statement
 We are forecasting Walmart sales based on historical data and various factors such as holidays, environmental conditions, geographic location, and the relationship between two or more product sales. The project aims to analyse weekly sales data from Walmart stores against features like holidays, temperature, fuel price, and CPI (Customer Price Index) using a secondary dataset. The goal is to perform Exploratory Data Analysis (EDA) to understand the relationships between these features and weekly sales, ultimately enabling accurate sales forecasting for the retail giant.
 
 Colab Link 
+
 https://colab.research.google.com/drive/1NWOkI-kfp8aS46gvo_3vfSuf_jQMfVmQ#scrollTo=ahDrBTJAu83c
 
 DataSetlink 
+
 https://www.kaggle.com/datasets/yasserh/walmart-dataset
 
 About this Dataset
